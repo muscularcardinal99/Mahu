@@ -9,12 +9,12 @@
     overflow: hidden;
 }
 .hero .carousel{
-    width: 195px;
+    width: 200px;
     margin: 100px auto 0;
     overflow: visible;
 
 }
 .carousel img{
     -webkit-box-reflect: below 20px 
-    linear-gradient(rgb(255, 255, 0.2),rgba(255, 255, 1, 0.1)); 
+    linear-gradient(rgba(255, 255, 1, 0),rgba(255, 255, 0.2)); 
 }
