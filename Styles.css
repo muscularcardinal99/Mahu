@@ -16,5 +16,5 @@
 }
 .carousel img{
     -webkit-box-reflect: below 20px 
-    linear-gradient(rgba(255, 255, 1, 0),rgba(255, 255, 0.2)); 
+    linear-gradient(rgba(255, 255, 1, 0),rgb(255, 255, 0)); 
 }
